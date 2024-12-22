@@ -18,7 +18,7 @@ Setiap kelas memiliki ribuan gambar, sehingga dataset ini saya pilih untuk memba
 
 ## Langkah-Langkah Klasifikasi ASL
 - a. Pembagian Data: 
-Dataset dibagi menjadi dua bagian, yaitu 80% untuk data train, 10% data test dan 10% untuk data val.
+Dataset dibagi menjadi 80% untuk data train, 10% data test dan 10% untuk data val.
 
 - b. Eksplorasi Data: 
 Dilakukan analisis terhadap dataset untuk melihat distribusi data di setiap kelas.
