@@ -48,4 +48,6 @@ karena model ini menunjukkan performa terbaik setelah dilakukan evaluasi terhada
 
 - TAMPILAN WEB
   ![Screenshot 2024-12-23 001759](https://github.com/user-attachments/assets/265f117d-bce1-4bae-945f-a774730d48be)
+- CONTOH HASIL PREDIKSI DAN PROBABILITAS
+  ![Screenshot 2024-12-23 003004](https://github.com/user-attachments/assets/0e4aadd8-4b35-49ed-b141-6291f05fa3eb)
 
