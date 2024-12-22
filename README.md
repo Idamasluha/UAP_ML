@@ -30,6 +30,8 @@ Gambar diproses lebih lanjut untuk meningkatkan performa model.
 Gambar diklasifikasikan menggunakan dua model CNN, yaitu VGG19 dan ResNet, untuk membandingkan performa keduanya kemudian untuk modelnya disave. 
 
 ## Evaluasi MODEL 
+- LINK MODEL : https://drive.google.com/drive/folders/1y32m2U9AySLakppy_vTMvDPFyYmg-rOb?usp=sharing
+  
 - 1. MODEL VGG19
   ![Screenshot 2024-12-22 200138](https://github.com/user-attachments/assets/d34308ed-b5de-4b0e-ae77-ac0bbfe5635b)
   ![Screenshot 2024-12-22 200149](https://github.com/user-attachments/assets/78095c08-5677-49b2-ac14-58b483c84a9a)
