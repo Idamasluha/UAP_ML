@@ -45,3 +45,7 @@ Setelah model selesai dibuat dan disimpan, langkah selanjutnya adalah melakukan 
 Aplikasi ini dirancang untuk memprediksi huruf yang ditampilkan dalam gambar yang diunggah pengguna, sekaligus memberikan probabilitas dari setiap prediksi. 
 Model yang digunakan untuk membangun aplikasi adalah CNN dengan arsitektur VGG19, 
 karena model ini menunjukkan performa terbaik setelah dilakukan evaluasi terhadap kedua model.
+
+- TAMPILAN WEB
+  ![Screenshot 2024-12-23 001759](https://github.com/user-attachments/assets/265f117d-bce1-4bae-945f-a774730d48be)
+
