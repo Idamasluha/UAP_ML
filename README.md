@@ -14,7 +14,7 @@ Model yang digunakan dalam proyek ini adalah dua arsitektur CNN, yaitu VGG19 dan
 
 Dataset yang digunakan adalah ASL Alphabet Dataset, yang berisi 87.000 gambar tangan yang merepresentasikan 29 kelas. 
 Kelas-kelas tersebut mencakup 26 huruf alfabet (A-Z) dan beberapa simbol tambahan. 
-Setiap kelas memiliki ribuan gambar, sehingga dataset ini sangat ideal untuk membangun model klasifikasi berbasis deep learning.
+Setiap kelas memiliki ribuan gambar, sehingga dataset ini saya pilih untuk membangun model klasifikasi berbasis deep learning.
 
 ## Langkah-Langkah Klasifikasi ASL
 - a. Pembagian Data: 
