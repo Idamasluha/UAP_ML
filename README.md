@@ -47,7 +47,10 @@ Model yang digunakan untuk membangun aplikasi adalah CNN dengan arsitektur VGG19
 karena model ini menunjukkan performa terbaik setelah dilakukan evaluasi terhadap kedua model.
 
 - TAMPILAN WEB
-  ![Screenshot 2024-12-23 001759](https://github.com/user-attachments/assets/265f117d-bce1-4bae-945f-a774730d48be)
+  ![Screenshot 2024-12-23 102524](https://github.com/user-attachments/assets/59e29924-80b3-45e2-a615-c8b2581637bf)
+
 - CONTOH HASIL PREDIKSI DAN PROBABILITAS
   ![Screenshot 2024-12-23 003004](https://github.com/user-attachments/assets/0e4aadd8-4b35-49ed-b141-6291f05fa3eb)
 
+- CONTOH JIKA UPLOAD GAMBAR SELAIN ASL
+  ![Screenshot 2024-12-23 102447](https://github.com/user-attachments/assets/0cb6a4cb-63cf-445d-8351-775a8af22a27)
