@@ -41,6 +41,8 @@ Gambar diklasifikasikan menggunakan dua model CNN, yaitu VGG19 dan ResNet, untuk
      ![Screenshot 2024-12-22 200536](https://github.com/user-attachments/assets/162fc05a-7f56-4fea-977f-d6af67659c18)
 
 ## Deployment Web
+- https://idamasluha.streamlit.app/
+  
 Setelah model selesai dibuat dan disimpan, langkah selanjutnya adalah melakukan deployment menggunakan Streamlit untuk membuat aplikasi berbasis web. 
 Aplikasi ini dirancang untuk memprediksi huruf yang ditampilkan dalam gambar yang diunggah pengguna, sekaligus memberikan probabilitas dari setiap prediksi. 
 Model yang digunakan untuk membangun aplikasi adalah CNN dengan arsitektur VGG19, 
